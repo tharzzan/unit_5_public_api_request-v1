@@ -2,7 +2,7 @@ Extra Credit:
 
 1. Search Feature:
    - I intentionally delete the submit button from the HTML 
-     <input type="submit" value="&#x1F50D;" id="search-submit" class="search-submit">
+   - this line --> <input type="submit" value="&#x1F50D;" id="search-submit" class="search-submit">
    - Instead, the search feature will update dynamically on "keyup" event
 
 2. Modal toggle:
